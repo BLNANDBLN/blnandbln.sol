@@ -1,0 +1,76 @@
+body {
+    background-color: #f1f1f1;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff0000;
+    color: white;
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 3em;
+    text-transform: uppercase;
+}
+
+.hero-section {
+    background: url('https://example.com/trump-bg.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 100px 20px;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+}
+
+.hero-section h2 {
+    font-size: 2.5em;
+}
+
+.hero-section p {
+    font-size: 1.5em;
+}
+
+.buy-button {
+    background-color: #008cff;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.tokenomics {
+    background-color: #ffffff;
+    padding: 50px 20px;
+    color: #333;
+}
+
+.tokenomics h3 {
+    font-size: 2em;
+}
+
+.tokenomics ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: 1.2em;
+}
+
+.patriotic-banner {
+    background-color: #002868;
+    color: white;
+    padding: 30px 20px;
+    font-size: 1.5em;
+}
+
+footer {
+    background-color: #ff0000;
+    color: white;
+    padding: 20px 0;
+    font-size: 1em;
+}
